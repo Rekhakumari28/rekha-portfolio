@@ -116,12 +116,8 @@ return(
         <div className="card-body">
           <h3 className="card-title text-secondary">Anvaya</h3>
             <p>
-              Workasana is a task management and team collaboration tool
-              where users can create projects, assign tasks to teams and
-              owners, set deadlines, and organize work using tags. it
-              supports authentication, dynamic filtering, URL-based queries,
-              and reporting features to treak task, progress and team
-              productivity.
+            The Anvaya CRM app will focus on lead management with defined steps for each lead's lifecycle.
+             We will assign sales agents to leads and allow users to add comments or updates to each lead.
             </p>
             <p>
               {" "}
