@@ -3,21 +3,20 @@ return(
   <div className="section ">
     <section  id="technologies">
     <h2 className="text-green">Technologies</h2>
-    <div className="row  ">
-      <div className="col-md-4 ">
+    <div className="row">
+      <div className="col-md-4 fs-5 fw-normal  py-3">
       
-       Frontend: React JS , Javascript, Bootstrap, CSS
+       React JS, Javascript, Bootstrap, CSS, HTML, Axios, Redux, Redux-Toolkit
        
       </div>
-      <div className="col-md-4">
+      <div className="col-md-4 fs-5 fw-normal   py-3 ">
       
-       Backend: Node JS, Express JS, MongoDB
+       Node JS, Express JS, MongoDB, Rest APIs, MERN Stack
       
       </div>
-      <div className="col-md-4">
+      <div className="col-md-4 fs-5 fw-normal   py-3 ">
        
-       Deployment: Github & Hosting: Vercel | Netlify
-      
+       Github, Web Hosting, Vercel, Netlify, Python Basic       
         
       </div>
     </div>
