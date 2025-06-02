@@ -44,7 +44,7 @@ function Projects() {
       
         {projects.map(project=> <div className="col-md-4 my-2" key={project.id}>
           <div className="rounded bg-white p-3"><h3 className="card-title text-secondary">{project.name}</h3>
-            <p>
+            <p >
                {project.description}
               </p>
               <p>
