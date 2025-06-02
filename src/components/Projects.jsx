@@ -18,7 +18,7 @@ function Projects() {
         </div>
         <div className="row g-4">
 <div className="col-md-4" >
-  <div className="card bg-body-tertiary h-100 border-0 shadow-sm project">
+  <div className="card bg-secondary text-light h-100 border-0 shadow-sm project">
     <div className="position-relative">
       <img src={shoesanctuary} alt="shoeSanctuary" className="card-img-top" />
     </div>
@@ -72,7 +72,7 @@ function Projects() {
   </div></div>
 </div>
 <div className="col-md-4" >
-  <div className="card  h-100 border-0 shadow-sm project">
+  <div className="card bg-secondary text-light h-100 border-0 shadow-sm project">
     <div className="position-relative">
       <img src={workasana} alt="workasana" className="card-img-top" />
     </div>
@@ -125,7 +125,7 @@ function Projects() {
   </div></div>
 </div>
 <div className="col-md-4">
-  <div className="card  h-100 border-0 shadow-sm project">
+  <div className="card bg-secondary text-light h-100 border-0 shadow-sm project">
     <div className="position-relative">
       <img src={anvaya} alt="anvaya" className="card-img-top" />
     </div>
@@ -181,7 +181,7 @@ function Projects() {
   </div></div>
 </div>
 <div className="col-md-4" >   
-  <div className="card  h-100 border-0 shadow-sm project">
+  <div className="card bg-secondary text-light h-100 border-0 shadow-sm project">
     <div className="position-relative">
       <img src={portfolio} alt="shoeSanctuary" className="card-img-top" />
     </div>
