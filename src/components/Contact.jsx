@@ -7,7 +7,9 @@ function Contact() {
       <div className="container py-5">
         <div className="mb-5">
           <h2 className="display-4 fw-bold">Contact</h2>
-          <p className="fs-5 text-secondary">contact</p>
+          <p className="fs-5 text-secondary">Let's collaborate on something amazing together
+
+</p>
           <div
             className="bg-success mb-4"
             style={{ height: "3px", width: "100px" }}
