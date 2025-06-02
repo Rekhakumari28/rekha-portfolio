@@ -37,7 +37,7 @@ function Technologies() {
             <div key={index} className="col-6 col-lg-3">
               {" "}
               <div className="d-flex  mb-4">
-                <span className="fs-5 fw-normal ms-5 ps-3 py-2">{skill}</span>
+                <span className="fs-5 fw-normal text-center py-2">{skill}</span>
               </div>{" "}
             </div>
           ))}
