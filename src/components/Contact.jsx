@@ -18,7 +18,7 @@ function Contact() {
   
       <div className="row g-4">
         <div className="col-md-6">
-          <div className="card h-100 border-0 shadow-sm project p-4">
+          <div className="card bg-body-tertiary h-100 border-0 shadow-sm project p-4">
             <div className="d-flex align-item-center mb-3">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
