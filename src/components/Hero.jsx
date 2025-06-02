@@ -6,7 +6,7 @@ export function Hero(){
              <section id="hero" className="hero text-center py-4 ">
            <img src={hero} alt="hero-img" className="hero-img" />
         <h1 className="hero-heading">Rekha Kumari Bheel</h1>
-        <h2 className="hero-heading2 mb-3">A Full Stack Developer</h2>
+        <p className="hero-heading2 mb-3">I build scalable full-stack web apps with a passion for clean code and UX.</p>
         <HashLink className="link link-primary text-white " to="#projects">View My Work</HashLink>
         
       </section> 
