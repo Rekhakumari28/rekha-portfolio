@@ -5,6 +5,7 @@ import { Footer } from "./components/Footer.jsx";
 import { Header } from "./components/Header.jsx";
 import "./App.css"
 import Contact from "./components/Contact.jsx";
+import BottumButton from "./components/BottumButton.jsx";
 function App() {
   return (
     <div>
@@ -14,6 +15,7 @@ function App() {
       <Technologies />
       <Contact />
       <Footer />
+      <BottumButton />
     </div>
   );
 }
