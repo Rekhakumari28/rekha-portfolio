@@ -17,12 +17,10 @@ export function Hero() {
             ></div>
             <div className="mb-4">
               <p className="fs-5 fw-normal mb-2">
-                I build scalable full-stack web apps with a passion for clean
-                code and UX.
+                Full-stack developer passionate about crafting modern, intuitive digital experiences.
               </p>
               <p className="fs-5 fw-normal mb-3">
-                I'm passionate about improving user interfaces and experiences,
-                particularly making web apps simpler to use.
+                 Skilled in building scalable, user-centric applications using React, Node.js, and MongoDB.
               </p>
             </div>
             <div className="d-flex gap-3">

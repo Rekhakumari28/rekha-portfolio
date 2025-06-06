@@ -10,7 +10,7 @@ function Projects() {
       <div className="py-5 container">
         <div className="mb-5">
           <h2 className="display-4 fw-bold">Projects</h2>
-          <p className="fs-5 text-secondary">Building solution that solve real word problem</p>
+          <p className="fs-5 text-secondary">Creating practical solutions for real-world challenges</p>
           <div
               className="bg-success mb-4"
               style={{ height: "3px", width: "100px" }}

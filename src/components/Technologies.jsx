@@ -15,7 +15,7 @@ function Technologies() {
         <div className="mb-5">
           <h2 className="display-4 fw-bold">Technologies</h2>
           <p className="fs-5 text-secondary">
-            Technologies and tools I work with
+            Technologies & Tools I Specialize In
           </p>
           <div
             className="bg-success mb-4"
