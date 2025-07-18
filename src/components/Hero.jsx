@@ -30,7 +30,7 @@ export function Hero() {
 
               <Link
                 className="btn btn-outline-secondary px-4 py-2"
-                to="https://docs.google.com/document/d/1QqLFDh2lvwqLQnbq22J-lYElOtAj8z8L/edit?usp=sharing&ouid=116969599386205726941&rtpof=true&sd=true"
+                to="https://docs.google.com/document/d/1Dacmzk0rmjWG4YKb_-fXFP-b76uAv1KPVTAT5bTVk0s/edit?tab=t.0"
                 target="_blank"
               >
                 Resume
