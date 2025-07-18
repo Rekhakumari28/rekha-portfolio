@@ -14,10 +14,8 @@
 
 1. [About Me](#about-me)  
 2. [Tech Stack](#tech-stack)  
-3. [Projects](#projects)  
-4. [How to Run Locally](#how-to-run-locally)  
-5. [What’s Next](#️-whats-next)  
-6. [Contact Me](#contact-me)
+3. [How to Run Locally](#how-to-run-locally)
+4. [Contact Me](#contact-me)
 
 ---
 
