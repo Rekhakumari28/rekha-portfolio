@@ -10,8 +10,8 @@ function Technologies() {
     // "Python Basic",
   ];
   return (
-    <section id="technologies" className="py-5">
-      <div className="container py5">
+    <section id="technologies" className="py-5 ">
+      <div className="container py-5">
         <div className="mb-5">
           <h2 className="display-4 fw-bold">Technologies</h2>
           <p className="fs-5 text-secondary">
